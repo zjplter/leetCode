@@ -39,6 +39,10 @@
 ## [堆](Heap/)
 * - [排序矩阵中第k小个元素.py](Heap/KthSmallestElementInASortedMatrix.py)
 
+## [数学](Number/)
+* - [两个整数向除.py](Number/DivideTwoIntegers.py)
+* - [直线上最多的点数.py]()
+
 ## [排序](Sorted/)
 * - [选择,插入,快排,归并](Sorted/sotred.py)
 
